@@ -1,0 +1,8 @@
+{
+  "spellcheck": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "vimMode": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
+}
