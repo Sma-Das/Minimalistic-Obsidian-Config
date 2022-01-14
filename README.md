@@ -15,13 +15,13 @@ Basic plugins are included, be sure to disable `safe mode` if trying to use them
 Run this command in the vault directory
 
 ```bash
-sh -c "curl -fL [ADD TOOL SCRIPT FILE HERE] | sh"
+sh -c "curl -fL https://raw.githubusercontent.com/Sma-Das/Minimalistic-Obsidian-Config/main/tools/install.sh | sh"
 ```
 
 Continuous requirement of this can be aliased to a command
 
 ```bash
-echo "alias initobsidian='sh -c \"curl -fL [ADD TOOL SCRIPT FILE HERE] | sh\"'" >> ~/.${SHELL}rc
+echo "alias initobsidian='sh -c \"curl -fL https://raw.githubusercontent.com/Sma-Das/Minimalistic-Obsidian-Config/main/tools/install.sh | sh\"'" >> ~/.${SHELL}rc
 ```
 
 ### Advanced
